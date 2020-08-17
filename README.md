@@ -1,5 +1,4 @@
 # SqueezeNet1.2
-Built upon the SqueezeNet (Forrest N. Iandola et al.) Model 
 
 Abstract
 
