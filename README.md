@@ -2,6 +2,8 @@
 Built upon the SqueezeNet (Forrest N. Iandola et al.) Model 
 
 Abstract
+
+
 Developing space-efficient convolutional neural
 networks (CNNs) while maintaining the level of
 accuracy achieved by state-of-the-art models on
